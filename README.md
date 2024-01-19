@@ -1,10 +1,3 @@
-<style>
-  body {
-    background-color: #1e1e1e;
-  color: #c8c8c8
-  }
-</style>
-
 <h1 align="center">Hi 👋, I'm Muhammed Shamil</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
