@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamil-ch" alt="shamil-ch" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🔭 I’m currently working on [Car Rental WebAPP](https://autowheelsrental.vercel.app/)
 
 - 🌱 I’m currently learning **GoLang**
