@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Car Rental WebAPP](https://autowheelsrental.vercel.app/)
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **Django-python**
 
 - 👨‍💻 All of my projects are available at [https://shamil7.netlify.app/](https://shamil7.netlify.app/)
 
