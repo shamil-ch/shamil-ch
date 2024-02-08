@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django-python**
 
-- 👨‍💻 All of my projects are available [Here](https://shamil7.netlify.app/project)
+- 👨‍💻 All of my projects are available [Here](https://shamil7.netlify.app/)
 
 - 💬 Ask me about **React,Next.JS**
 
