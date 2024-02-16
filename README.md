@@ -3,7 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on [TradeHippo](https://github.com/shamil-ch/TradeHippo))
+- 🔭 I’m currently working on [TradeHippo](https://github.com/shamil-ch/TradeHippo)
 
 - 🌱 I’m currently learning **Node.JS**
 
