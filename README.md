@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [NestHippo](https://github.com/shamil-ch/TradeHippo)
 
-- 🌱 I’m currently learning **Node.JS**
+- 🌱 I’m currently learning **Express**
 
 - 👨‍💻 All of my projects are available [Here](https://shamil7.netlify.app/)
 
