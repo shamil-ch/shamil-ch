@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available [Here](https://shamil7.netlify.app/)
 
-- 💬 Ask me about **React,Next.JS**
+- 💬 Ask me about **React.JS,Next.JS**
 
 - 📫 How to reach me **shamilkolekkara@gmail.com**
 
