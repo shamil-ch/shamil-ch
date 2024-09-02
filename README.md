@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [FusionWrite](https://github.com/shamil-ch/FusionWrite)
 
-- 🌱 I’m currently learning **Express.JS**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available [Here](https://shamil7.netlify.app/)
 
