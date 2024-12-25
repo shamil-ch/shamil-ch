@@ -3,7 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on [Fusionwrite](https://github.com/shamil-ch/FusionWrite)
+- 🔭 I’m currently working on [XPO Shoppee](https://www.xposhopee.com/)
 
 - 🌱 I’m currently learning **SAP**
 
