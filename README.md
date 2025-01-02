@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Shamil</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">Web developer</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
