@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [XPO Shoppee](https://www.xposhopee.com/)
 
-- 🌱 I’m currently learning **SAP**
+- 🌱 I’m currently learning **NEXT.JS**
 
 - 👨‍💻 All of my projects are available [Here](https://shamil7.netlify.app/)
 
